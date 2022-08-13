@@ -1,3 +1,5 @@
+### Oi
+
 - 👋 Hi, I’m Thiago J Queiroz
 - 👀 I’m very passionate about Technology and a Linux Lover...
 - 🌱 I’m currently learning javascript, NodejS, Vue, React and some others frameworks or libraries that helps me to explore and get more deep about javascript.
